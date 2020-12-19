@@ -1,3 +1,9 @@
+Chat Application
+
+Tech stack used: React, Node, ExpressJs, Socket.io
+Description:
+A simple chat application that uses socket.io to send and receive messages among users who have joined a room with the same name.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
